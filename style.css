@@ -29,7 +29,6 @@ li a {
   background-color: #fff;
   transition: width 0.3s;
 }
-
 .group-link:hover::after {
   width: 100%;
   transition: width 0.3s;
